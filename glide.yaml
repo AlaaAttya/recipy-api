@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.2
+- package: github.com/go-bongo/bongo
+  version: ~0.10.4
