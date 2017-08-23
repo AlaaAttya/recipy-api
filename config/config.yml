@@ -1,0 +1,8 @@
+local:
+  database:
+    host: 192.168.99.100:37017
+    dbName: recipy_api
+    dbUser:
+    dbPassword: 
+development:
+live:

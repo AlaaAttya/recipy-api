@@ -1,5 +1,5 @@
-hash: a2f3659e8b66e28118cd79603c5aab55bf06613c6acc10f5b473c6c019e5cd80
-updated: 2017-07-21T22:41:40.239557653+02:00
+hash: 255bac7714cc2ae30ded1f41b7c30004630b5d0cdadbb01728f21909bc666229
+updated: 2017-07-30T01:15:09.196606247+02:00
 imports:
 - name: github.com/gin-contrib/sse
   version: 22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae
@@ -10,16 +10,18 @@ imports:
   - render
 - name: github.com/go-bongo/bongo
   version: 58e3a1fbb5ea15dde8675b60becb2a9950e70164
-- name: github.com/go-bongo/go-dotaccess
-  version: ae070a2d2a38fd7233e255ded21fb26fe36b4796
 - name: github.com/golang/protobuf
   version: 0a4f71a498b7c4812f64969510bcb4eca251e33a
   subpackages:
   - proto
 - name: github.com/mattn/go-isatty
   version: fc9e8d8ef48496124e79ae0df75490096eccf6fe
+- name: github.com/maxwellhealth/go-dotaccess
+  version: ae070a2d2a38fd7233e255ded21fb26fe36b4796
 - name: github.com/oleiade/reflections
   version: 0e86b3c98b2ff33e30c85cfe97d9a63d439fe7eb
+- name: github.com/spf13/viper
+  version: 25b30aa063fc18e48662b86996252eabdcf2f0c7
 - name: github.com/ugorji/go
   version: 5efa3251c7f7d05e5d9704a69a984ec9f1386a40
   subpackages:
